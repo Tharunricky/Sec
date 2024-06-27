@@ -45,7 +45,7 @@ Copy code : python hash_checker.py --algorithm md5 --file example.txt
 Verify SHA-256 Hash
 
 
-Copy code : python hash_checker.py --algorithm sha256 --file example.txt --verify d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2
+Copy code : python hash_checker.py --algorithm sha256 --file example.txt --verify 
 
 Contributing
 Fork the repository.
